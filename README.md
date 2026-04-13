@@ -1,4 +1,4 @@
-# FTC Robot Controle
+# FTC Robot | Controle
 
 O objetivo deste projeto era fazer o robô se movimentar utilizando 4 motores.
 
