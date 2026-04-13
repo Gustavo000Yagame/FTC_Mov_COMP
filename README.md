@@ -60,3 +60,8 @@ Este projeto foi importante para entender melhor:
 - normalização de potência dos motores
 
 <img width="1536" height="1024" alt="imgftc" src="https://github.com/user-attachments/assets/909d4261-cefd-4011-8de5-2710ba83f08c" />
+
+## X e Y
+
+![plano-cartesiano](https://github.com/user-attachments/assets/3bcb4b73-65f9-4a96-afcd-6a6f95836e40)
+
